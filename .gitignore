@@ -1,0 +1,21 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcuserdata
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+Packages/
+
+# macOS
+.DS_Store
+
+# Swift Playgrounds
+timeline.xctimeline
+
+# User-specific
+*.perspectivev3
+xcdebugger/

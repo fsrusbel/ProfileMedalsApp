@@ -30,11 +30,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1743B3932EA14097005162FF /* ProfileMedalsApp */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ProfileMedalsApp;
-			sourceTree = "<group>";
-		};
 		1743B3A22EA14099005162FF /* ProfileMedalsAppTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ProfileMedalsAppTests;
@@ -43,6 +38,11 @@
 		1743B3AC2EA14099005162FF /* ProfileMedalsAppUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ProfileMedalsAppUITests;
+			sourceTree = "<group>";
+		};
+		1743B4792EA14950005162FF /* ProfileMedalsApp */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ProfileMedalsApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,7 +75,7 @@
 		1743B3882EA14097005162FF = {
 			isa = PBXGroup;
 			children = (
-				1743B3932EA14097005162FF /* ProfileMedalsApp */,
+				1743B4792EA14950005162FF /* ProfileMedalsApp */,
 				1743B3A22EA14099005162FF /* ProfileMedalsAppTests */,
 				1743B3AC2EA14099005162FF /* ProfileMedalsAppUITests */,
 				1743B3922EA14097005162FF /* Products */,
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1743B3932EA14097005162FF /* ProfileMedalsApp */,
+				1743B4792EA14950005162FF /* ProfileMedalsApp */,
 			);
 			name = ProfileMedalsApp;
 			packageProductDependencies = (
