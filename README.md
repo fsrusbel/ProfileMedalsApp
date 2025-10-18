@@ -43,3 +43,7 @@ Tap medals to see interactive confetti effects
 The app uses medallas_mock.json in Resources
 Edit this file to add or change medals, then rebuild
 
+## 📹 Demo Video
+You can watch a quick demo of the app here:  
+🎬 [ProfileMedalsApp Demo (Google Drive)](https://drive.google.com/file/d/1mkNZjx_EOkZsW-JgVoQYy0X56zOOtv1p/view?usp=drive_link)
+
